@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import com.edudev.kubikart.R
 
 /**
- * WELCOME to v0.0.1
+ * WELCOME to v0.0.2
  *
  * You are a step closer to be part of Kubikware. I will help you to go through this test
  *
