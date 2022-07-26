@@ -8,9 +8,8 @@ import org.mockito.kotlin.verify
 class HomeControllerTest: BaseTest() {
 
     // Add tests cases to the Home Controller
-
     @Test
     fun `Add meaningful name`() {
-
+        // Assert the artResult
     }
 }
